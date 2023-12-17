@@ -1,4 +1,0 @@
-#include<studio.h>
-{
-printf("print the following");
-}
